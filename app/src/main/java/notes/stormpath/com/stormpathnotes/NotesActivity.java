@@ -192,8 +192,6 @@ public class NotesActivity extends AppCompatActivity {
         }
     };
 
-
-
     private void showLoginScreen(){
         startActivity(new Intent(this, StormpathLoginActivity.class));
     }
