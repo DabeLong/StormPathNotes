@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_3d6a6d0fe712617d76437c2cc80dc7547277d2a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_a2c9cefaf59e81b3faee26143d2df3d4eabc100c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.1.2_a5aae7bbeb3dc1faea41da9496d68c4e6c678fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_836ad5dbdfb0e06587ab8bd4c3bf25be27af91c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.stormpath.sdk/stormpath-sdk-android/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbb40b9ed40d3349c218f0403eb346ca601f508f">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.stormpath.sdk-stormpath-sdk-android-1.1.3_8004d522b4705f0c47ecfb1dd2e3d7c410fb1c1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d3964db19259a503a8c9467e52c344c0372ebf8">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.3.0_ce3763ec139eac6035f04fadd7cf694ba29f03fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.stormpath.sdk/stormpath-sdk-android-ui/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3fc7f6b3eead7f13918b1ce15e9bd7896fb5171">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.stormpath.sdk-stormpath-sdk-android-ui-1.0.2_ccb679f74e7f731fa7553988962f545991157f94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_989f55e20819d5719965ecca30bc5fa0f0801645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_2cb0ac861c7b60c194021717bedad63c1c023936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.1.0/9c665b797ef9427f6d73572642dcb5f90270f7d3/moshi-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c665b797ef9427f6d73572642dcb5f90270f7d3">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/moshi-1.1.0_80b9ab11c56d0bbf14720d3902dd25f29799c492/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.0_678c3a7cf3c45d9a1569c49c3e516955bdd4105b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_8a673a785963216b213f32e106274820df99b3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6d52439ea45c4b2997d4145963482980d167b67">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ae8edb3846d5205089f7676e80a1686b935f7c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.0_8260bf00c9d71038d49e61946cbb679d4ddb1bfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_ad38e45d8240b3333af0773ed6bbb741b9dd0752/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fb395f13f41d594aa201fdb66d3bdb09b0a07af6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e48db1e50fbd612bea42ed558247681b804db92d">
+        <dex dex="/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef620654288bb135f13fcf99aa35090c41d44b78/classes.dex" />
+    </item>
+
+</items>

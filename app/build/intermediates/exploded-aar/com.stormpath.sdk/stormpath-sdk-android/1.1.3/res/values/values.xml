@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stormpath_activity_horizontal_margin">16dp</dimen>
+    <dimen name="stormpath_activity_vertical_margin">16dp</dimen>
+    <dimen name="stormpath_button_height">52dp</dimen>
+    <dimen name="stormpath_view_vertical_margin">16dp</dimen>
+    <string name="stormpath_network_error_message">There was a problem with the network connection, please check your settings.</string>
+    <string name="stormpath_unknown_error_message">There was an unexpected error, please try again later.</string>
+</resources>

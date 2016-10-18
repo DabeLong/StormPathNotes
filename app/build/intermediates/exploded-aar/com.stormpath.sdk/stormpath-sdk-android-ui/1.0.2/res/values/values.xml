@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stormpath_activity_horizontal_margin">16dp</dimen>
+    <dimen name="stormpath_activity_vertical_margin">16dp</dimen>
+    <dimen name="stormpath_button_height">52dp</dimen>
+    <string name="stormpath_all_fields_mandatory">All field are mandatory!</string>
+    <string name="stormpath_email">Email</string>
+    <string name="stormpath_fill_in_credentials">You need to fill in the username and password!</string>
+    <string name="stormpath_first_name">First name</string>
+    <string name="stormpath_log_out">Log out</string>
+    <string name="stormpath_login">Login</string>
+    <string name="stormpath_password">Password</string>
+    <string name="stormpath_password_confirmation">Password confirmation</string>
+    <string name="stormpath_register">Register</string>
+    <string name="stormpath_requires_valid_email">Please enter a valid email address!</string>
+    <string name="stormpath_resetpassword">Forgot Password?</string>
+    <string name="stormpath_resetpassword_action">Send</string>
+    <string name="stormpath_resetpassword_result">You will be sent an email which you will need to open to continue. You may need to check your spam folder.</string>
+    <string name="stormpath_resetpassword_title">Enter your email address below to reset your password.</string>
+    <string name="stormpath_surname">Surname</string>
+    <style name="stormpathButton">
+        <item name="android:height">60dp</item>
+    </style>
+    <style name="stormpathButton.Login">
+        <item name="android:text">@string/stormpath_login</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="stormpathButton.Register">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:text">@string/stormpath_register</item>
+        <item name="android:height">30dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="stormpathButton.ResetPassword">
+        <item name="android:text">@string/stormpath_resetpassword</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:height">30dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="stormpathButton.ResetPassword.Action">
+        <item name="android:text">@string/stormpath_resetpassword_action</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="stormpathEditText">
+    </style>
+    <style name="stormpathEditText.FirstName">
+        <item name="android:inputType">textPersonName</item>
+        <item name="android:hint">@string/stormpath_first_name</item>
+    </style>
+    <style name="stormpathEditText.Password">
+        <item name="android:inputType">textPassword</item>
+        <item name="android:hint">Password</item>
+        <item name="android:imeOptions">actionGo</item>
+    </style>
+    <style name="stormpathEditText.Surname">
+        <item name="android:inputType">textPersonName</item>
+        <item name="android:hint">@string/stormpath_surname</item>
+    </style>
+    <style name="stormpathEditText.Username">
+        <item name="android:inputType">textEmailAddress</item>
+        <item name="android:hint">@string/stormpath_email</item>
+    </style>
+    <style name="stormpathLoginLogo">
+        <item name="android:layout_marginTop">32dp</item>
+        <item name="android:layout_marginBottom">64dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+    <style name="stormpathProgressBar">
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="stormpathProgressBar.Login">
+        <item name="android:visibility">invisible</item>
+    </style>
+    <style name="stormpathResetPasswordTitle">
+        <item name="android:text">@string/stormpath_resetpassword_title</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+</resources>

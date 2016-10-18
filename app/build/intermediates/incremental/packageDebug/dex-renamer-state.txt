@@ -1,0 +1,7 @@
+#Tue Oct 18 10:26:37 CDT 2016
+base.0=/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ae8edb3846d5205089f7676e80a1686b935f7c0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef620654288bb135f13fcf99aa35090c41d44b78/classes.dex
+base.1=/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef620654288bb135f13fcf99aa35090c41d44b78
+file.0=/Users/dmlong/StudioProjects/Stormpath Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ae8edb3846d5205089f7676e80a1686b935f7c0/classes.dex
